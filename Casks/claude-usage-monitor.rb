@@ -1,6 +1,6 @@
 cask "claude-usage-monitor" do
   version "1.3.2"
-  sha256 "276ae8af55e78937d16cebabfd9b717d30abdd8f97015824bdcfde7a51c9fdb2"
+  sha256 "796137b65f0483f79b6749c477c0fd20aa3fce215a18b253450f2d486fd38e52"
 
   url "https://github.com/eunggg0/homebrew-tap/releases/download/v#{version}/ClaudeUsageMonitor-#{version}.zip"
   name "ClaudeBar"
