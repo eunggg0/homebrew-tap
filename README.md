@@ -23,7 +23,7 @@ Claude's 5-hour session limit and 7-day weekly limit can stop you mid-flow witho
 - **Usage prediction** — estimate when you'll hit the cap
 - **Weekly heatmap** — 7-day usage distribution chart (Pro)
 - **Token breakdown** — input/output/cache tokens with cost estimate (Pro)
-- **Threshold alerts** — get notified at 80%, 90% usage (Pro)
+- **Threshold alerts** — customizable in 5% increments (Pro)
 - **Sonnet weekly limit** — separate Sonnet model tracking
 - **Dark premium UI** — iStat Menus-inspired design
 - **Korean / English** — bilingual interface
@@ -58,7 +58,7 @@ brew upgrade --cask claude-usage-monitor
 
 Core monitoring is **free forever**. Pro ($1.99/mo) adds:
 
-- Custom threshold alerts
+- Customizable threshold alerts (5% increments)
 - GitHub-style usage heatmap
 - Usage prediction engine
 - CSV data export
