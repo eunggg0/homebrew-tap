@@ -4,7 +4,7 @@
 
 Track your Claude Pro/Max session and weekly rate limits at a glance — no more surprise rate-limit walls.
 
-![macOS](https://img.shields.io/badge/macOS-12%2B-blue) ![License](https://img.shields.io/badge/License-MIT-yellow) ![Version](https://img.shields.io/badge/version-1.4.0-green) [![GitHub Stars](https://img.shields.io/github/stars/eunggg0/homebrew-tap?style=social)](https://github.com/eunggg0/homebrew-tap/stargazers)
+![macOS](https://img.shields.io/badge/macOS-12%2B-blue) ![License](https://img.shields.io/badge/License-MIT-yellow) ![Version](https://img.shields.io/badge/version-1.4.1-green) [![GitHub Stars](https://img.shields.io/github/stars/eunggg0/homebrew-tap?style=social)](https://github.com/eunggg0/homebrew-tap/stargazers)
 
 **[Homepage](https://site-seven-psi-19.vercel.app/)**
 
